@@ -1,0 +1,25 @@
+#main_case{
+    width: 50%;
+    height: 100%;
+    margin: auto;
+    background-color:	#F4C2C2 ;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   border-radius: 10%;
+}
+
+.welcome{
+    font-size: 100px;
+    text-align: center;
+    margin: 0px;
+}
+.enjoy{
+    font-size: 30px;
+    text-align: center;
+    margin: 0px;
+}
+.cat{
+    display: block;
+    width: 50%;
+    margin: auto;
+    padding: 100px;
+}

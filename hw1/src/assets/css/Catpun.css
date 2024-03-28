@@ -1,0 +1,10 @@
+
+.case{
+    background-image:url(../white\cat\paws\blue\shimmer.jpg) ;
+    background-size: cover;
+    width: 50%;
+    height: 100%;
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+}
