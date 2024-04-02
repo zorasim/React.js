@@ -33,7 +33,7 @@ export function Comments({listofComments,inputedPlatform,deleteCom}){
                         return(
                             <li key={item.id}>
                                 {
-                                    editedCommentID===item?.id ? (<Edit comment={item.id} savedComemnt={update}/>)
+                                    editedCommentID===item?.id ? (<Edit commentId={item.id} comment={item.comment} savedComemnt={update}/>)
                                     :
                                     (<>
                                         <div>{item.comment}</div>
